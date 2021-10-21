@@ -17,7 +17,7 @@ class Bsblan extends utils.Adapter {
     constructor(options) {
         super({
             ...options,
-            name: "bsblan",
+            name: "ppslan",
         });
         this.on("ready", this.onReady.bind(this));
         this.on("stateChange", this.onStateChange.bind(this));

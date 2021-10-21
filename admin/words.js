@@ -2,17 +2,17 @@
 "use strict";
 
 systemDictionary = {
-    "bsblan adapter settings": {
-        "en": "Adapter settings for bsblan",
-        "de": "Adaptereinstellungen für bsblan",
-        "ru": "Настройки адаптера для bsblan",
-        "pt": "Configurações do adaptador para bsblan",
-        "nl": "Adapterinstellingen voor bsblan",
-        "fr": "Paramètres d'adaptateur pour bsblan",
-        "it": "Impostazioni dell'adattatore per bsblan",
-        "es": "Ajustes del adaptador para bsblan",
-        "pl": "Ustawienia adaptera dla bsblan",
-        "zh-cn": "bsblan的适配器设置"
+    "ppslan adapter settings": {
+        "en": "Adapter settings for ppslan",
+        "de": "Adaptereinstellungen für ppslan",
+        "ru": "Настройки адаптера для ppslan",
+        "pt": "Configurações do adaptador para ppslan",
+        "nl": "Adapterinstellingen voor ppslan",
+        "fr": "Paramètres d'adaptateur pour ppslan",
+        "it": "Impostazioni dell'adattatore per ppslan",
+        "es": "Ajustes del adaptador para ppslan",
+        "pl": "Ustawienia adaptera dla ppslan",
+        "zh-cn": "ppslan的适配器设置"
     },
     "option1": {
         "en": "option1",

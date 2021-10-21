@@ -1,65 +1,21 @@
 {
     "common": {
-        "name": "bsblan",
-        "version": "0.2.2",
+        "name": "ppslan",
+        "version": "0.1.0",
         "news": {
-            "0.2.2": {
-              "en": "Replace invalid characters for Object-IDs stated by JS-Controller",
-              "de": "Ersetzt für JS-Controller üngültige Zeichen für Objekt-IDs"
-            },
-            "0.2.1": {
-                "en": "Fix write issue with new bsb_lan2 firmware",
-                "de": "Behebt ein Problem beim Schreiben von Werten mit der neuen bsb_lan2 Firmware"
-            },
-            "0.2.0": {
-                "en": "Add 24h averages (needs BSB_LAN FW 1.1)",
-                "de": "Unterstützung für 24h Durchschnittswerte (ab BSB_LAN FW 1.1)"
-            },
-            "0.1.5": {
-                "en": "Config changed: 8700 readonly, 10003 writeType:1",
-                "de": "Konfiguration geändert: 8700 readonly, 10003 writeType:1"
-            },
-            "0.1.4": {
-                "en": "tbd",
-                "de": "tbd"
-            },
-            "0.1.3": {
-                "en": "Bugfix: Amount of IDs were silently limited",
-                "de": "Bugfix: Menge an IDs wurde begrenzt"
-            },
-            "0.1.2":{
-                "en": "Support INF interface for setting external room temperatures",
-                "de": "Unterstützung der INF Schnittstelle um externe Raumtemperaturen zu übermitteln"
-            },
-            "0.1.1":{
-                "en": "Support for micro and bugfixes",
-                "de": "Unterstützung der Einheit micro und Bugfixes"
-            },
             "0.1.0": {
-                "en": "Support writing values to BSB_LAN Interface to control the device",
-                "de": "Unterstützung zum Schreiben von Werten und damit das Steuern des Heizgeräts"
-            },
-            "0.0.1": {
-                "en": "initial release",
-                "de": "Erstveröffentlichung",
-                "ru": "Начальная версия",
-                "pt": "lançamento inicial",
-                "nl": "Eerste uitgave",
-                "fr": "Première version",
-                "it": "Versione iniziale",
-                "es": "Versión inicial",
-                "pl": "Pierwsze wydanie",
-                "zh-cn": "首次出版"
+                "en": "Initial fork for PPS adjustments",
+                "de": "Initialer Fork für PPS Anpassungen"
             }
         },
-        "title": "BSB LAN",
+        "title": "PPS LAN",
         "titleLang": {
-            "en": "Control BSB/PPS/LPB based heating devices using the BSB_LAN interface",
-            "de": "Steuerung BSB/PPS/LPB basierter Brennwerthermen und Wärmepumpen"
+            "en": "Control PPS based heating devices using the BSB_LAN interface",
+            "de": "Steuerung PPS basierter Brennwerthermen und Wärmepumpen"
         },
         "desc": {
-            "en": "Connects the BSB_LAN Interface with ioBroker",
-            "de": "Verbindet das BSB_LAN Interface mit ioBroker"
+            "en": "Connects the BSB_LAN Interface for PPS with ioBroker",
+            "de": "Verbindet das BSB_LAN Interface für PPS mit ioBroker"
         },
         "authors": [
             "hacki11 <jur.schmid@gmail.com>"

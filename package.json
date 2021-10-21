@@ -1,7 +1,7 @@
 {
-  "name": "iobroker.bsblan",
-  "version": "0.2.2",
-  "description": "bsblan",
+  "name": "iobroker.ppslan",
+  "version": "0.1.0",
+  "description": "ppslan",
   "author": {
     "name": "hacki11",
     "email": "jur.schmid@gmail.com"
